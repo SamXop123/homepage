@@ -1,3 +1,5 @@
+/* If you dont want the navigation bar to be on the left side, then use this code. It will put it onto the right side */
+
 --------------------------------
 .navbar {
     display: flex;      /* Use flexbox for the navbar */
